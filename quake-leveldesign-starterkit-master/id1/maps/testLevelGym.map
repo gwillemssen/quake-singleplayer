@@ -560,7 +560,7 @@
 }
 // entity 1
 {
-"classname" "info_player_start"
+"classname" "testplayerstart"
 "origin" "-64 -64 24"
 "angle" "180"
 }
